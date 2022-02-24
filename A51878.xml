@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perswasive to the consciencious frequenting the daily publick prayers of the Church of England in a sermon upon I Thessal. verse 17, and 18.</title>
+            <author>Mapletoft, John, 1631-1721.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51878</idno>
+            <idno type="STC">Wing M562</idno>
+            <idno type="STC">ESTC R124</idno>
+            <idno type="EEBO-CITATION">11871462</idno>
+            <idno type="OCLC">ocm 11871462</idno>
+            <idno type="VID">50142</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50142)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 501:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perswasive to the consciencious frequenting the daily publick prayers of the Church of England in a sermon upon I Thessal. verse 17, and 18.</title>
+                  <author>Mapletoft, John, 1631-1721.</author>
+               </titleStmt>
+               <extent>[5], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.G. for Walter Kettilby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata on p. 28.</note>
+                  <note>Dedication signed: John Mapletoft.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Sermons.</term>
+               <term>Meditations --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:50142:1"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <date>
+                  <hi>Mart.</hi> 17. 1686.</date>
+               <signed>JO. BATTELEY.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:50142:1" rendition="simple:additions"/>
+            <p>A PERSWASIVE TO THE Conſciencious Frequenting THE DAILY Publick Prayers OF THEChurch of England. IN A SERMON UPON 1 THESSAL. 5 Verſe 17, and 18.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. G.</hi> for <hi>Walter Kettilby,</hi> at the <hi>Biſhop</hi>'s <hi>Head,</hi> in St. <hi>Paul</hi>'s Church-Yard. 1687.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50142:2"/>
+            <pb facs="tcp:50142:2"/>
+            <head>TO HIS Eſteemed Good FRIENDS, THE INHABITANTS OF THE PARISHES OF
+<list>
+                  <item>St. <hi>LA<g ref="char:V">Ʋ</g>RENCE JEWRY,</hi>
+                  </item>
+                  <item>St. <hi>MARY MAGDALEN MILK-STREET,</hi> &amp;</item>
+                  <item>St. <hi>CHRISTOPHER.</hi>
+                  </item>
+               </list>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Know not how better to expreſs the ſenſe I have of your great Kindneſs, in making ſo free a Choice of me to thoſe Relations, in which I now ſtand to you, than by lodging this Plain Diſcourſe in every one of your Hou<g ref="char:EOLhyphen"/>ſes. I earneſtly requeſt, that it may be attentively read, and well conſidered of by all thoſe in your Families who can read; and may be read to ſuch as cannot read themſelves. And if I can prevail to have it examined Impartially, with<g ref="char:EOLhyphen"/>out all prejudice, and with the ſame Honeſt Deſign, with which it was Written, and Preached, I may modeſtly hope, that it will, through God's Bleſſing, produce at leaſt ſome viſible good Effects.</p>
+            <pb facs="tcp:50142:3"/>
+            <p>We have already (praiſed be God for it) daily Prayers in many Churches of this City, which afford us great choice of Hours; at ſome, or other of which, certainly moſt Men may, and the moſt Wiſe and Pious Men will find, or make leiſure, from their ordinary buſineſs, openly to own their De<g ref="char:EOLhyphen"/>pendance upon, and pay their Publick Acknowledgments to that God, who both at firſt made, and hath ſince ſo Graci<g ref="char:EOLhyphen"/>ouſly Redeemed them, for himſelf; and who every day Main<g ref="char:EOLhyphen"/>tains, Preſerves, and Bleſſes them. And I queſtion not but that we ſhould ſoon have Prayers likewiſe every day in moſt, I believe in all our Churches, if the Pariſhioners could be per<g ref="char:EOLhyphen"/>ſwaded to come, and give Countenance to their Miniſters, who are now diſcouraged from the Attempt, by the Shameful, Scandalous <hi>Thinnes</hi> of their Congregations on <hi>Wedneſdays,</hi> and <hi>Fridays,</hi> when they are read.</p>
+            <p>Though I confeſs my ſelf to be of Opinion (and that upon ſome Experiment, as well as upon good grounds of Reaſon) That even in thoſe Churches where there is the ſmalleſt Appear<g ref="char:EOLhyphen"/>ance at thoſe times, there would be twice, perhaps in a little while, Ten times as many at Prayers every day, were they once ſo ſetled, and Mens Minds duly awakened to the Con<g ref="char:EOLhyphen"/>ſideration of their Duty, and Intereſt, as now come on <hi>Wed<g ref="char:EOLhyphen"/>neſdays,</hi> and <hi>Fridays.</hi> Since the better any good thing is weighed, and underſtood, and the more conſtantly it is practi<g ref="char:EOLhyphen"/>ſed, the more it will gain upon us; and the nearer it comes to an Habit, the harder it will be to forbear it.</p>
+            <p>I ſhould not need to add, were it not to prevent (if it be poſſible) all manner of Pretence to Cavil, That what is here advanced, manifeſtly enough appears to be Calculated for Cities, Market-Towns, or ſuch Populous Villages, in which both the nearneſs of the Church, and the Nature of Mens Em<g ref="char:EOLhyphen"/>ployments may conveniently afford them ſo valuable a Pri<g ref="char:EOLhyphen"/>vilege, as is that of Conſecrating ſome part of every day, to
+<pb facs="tcp:50142:3"/>the Honour, and Publick Worſhip of their Dear Lord, and Maſter. Nor ſhould I otherwiſe here ſay, becauſe I have ſo often done it in the Body of this little Treatiſe, That I do all along preſs this Duty with the Exception, or Allowance of a Juſt, and Good Reaſon. That is of ſuch a Reaſon, as a Prudent, and Pious Man, whoſe Mind is ſeaſoned with that Genuine Principle of Divine Life, the Love of God, and all the Graces of his Holy Spirit, and influenced by a lively ſenſe, and proportionable care of his Chief, and Laſting con<g ref="char:EOLhyphen"/>cern, that of his Immortal Soul, ſhall deliberately judge to be a ſufficient Excuſe for his Abſence at that time; all the Circumſtances of his Perſon, and Place, and neceſſary, or warrantable Occaſions, being fairly accounted for.</p>
+            <p>What I affirm, and urge, is this, That the <hi>Common-Prayers</hi> of our Church ought to be every where, and at all times frequented by all thoſe of its Members, who can do it with that conveniency, which Chriſtian Piety, Prudence, and Charity ſhall ſtate, and agree to be ſuch. And that 'tis every Man's Duty to be preſent at them, ſo often as his oc<g ref="char:EOLhyphen"/>caſions, and condition of Life, ſo determined, will permit.</p>
+            <p>And this Truth, I think, were there no other Argument for it, may be clearly made out by the General Laws of our Religion, ſuch as are thoſe which Command, and Invite us, <hi>To ſeek firſt the Kingdom of God. To do all things to the Glory of God. To let all things be done to edifying;</hi> That is, to the Building up, and Advancement of the Church of Chriſt. <hi>To think on</hi> (in order to practiſe) <hi>whatſoever things are Honeſt (or Venerable, and Worthy,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>whatſoever things are Juſt,</hi> (and ſuch certainly is the daily Publick Homage of an Intelligent Creature, to his Great Creatour) <hi>whatſoever things are of good Report. To live to the Lord, with one Mind, and one Mouth to Glorifie God the Father of our Lord Jeſus Chriſt. To
+<pb facs="tcp:50142:4"/>give Glory to God in the Church</hi> (in the Aſſemblies of Chriſtian People) <hi>by Jeſus Chriſt throughout all Ages. To ſhew forth the Praiſes of him who hath called us out of Darkneſs into his Marvellous Light;</hi> as being there<g ref="char:EOLhyphen"/>by made <hi>a Royal Prieſthood:</hi> Of whom, as we are ſuch, God now under the Goſpel requires conſtant Service, in the Publick Aſſemblies, as he did the Sacrifices of the Levitical Prieſts. (Dr. <hi>Ham.</hi>) Theſe General Rules, or Maxims of Chriſtianity, being all of them eaſily applicable to the Subject I Treat of, I thought good to mention here, for the farther Inſtruction, and Conviction of thoſe whom the Prejudice of a different Education, contrary Cuſtom, Party, or other lit<g ref="char:EOLhyphen"/>tle Inducement, may be apt to miſlead, and make unwilling to diſcern, and own, what they are not willing ſhould betrue.</p>
+            <p>But whatever the Event may be in reference to thoſe who thus chooſe to ſtand in their own light, I ſhall have, at leaſt, the Satisfaction of having now done what in me lay to per<g ref="char:EOLhyphen"/>ſwade you to the Practice of a Religious Duty, which, if un<g ref="char:EOLhyphen"/>dertaken upon the Principles, and performed by the Meaſures of true, and <g ref="char:V">Ʋ</g>ndiſſembled Piety, will very much tend to the Honour and Glory of God, the Credit, Growth, and Ad<g ref="char:EOLhyphen"/>vancement of Religion; the Eſtabliſhment of our Church, the Peace and Welfare of this Kingdom; and our own great good, both in this Life, and in that which is to come. That it may pleaſe God ſo to Bleſs this little Treatiſe, as that it may be ſome way inſtrumental to the promoting his Glory, the ge<g ref="char:EOLhyphen"/>neral Intereſt of Religion, and their particular Advantage who ſhall read, and duly conſider it, is the earneſt Prayer of,</p>
+            <closer>
+               <salute>Gentlemen,</salute> 
+               <signed>
+                  <hi>Your Obliged Faithful Friend, and Servant,</hi> John Mapletoft.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50142:4"/>
+            <head>A PERSWASIVE TO THE <hi>Conſciencious Frequenting</hi> THE DAILY Publick Prayers OF THE <hi>Church of England,</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 THESSAL. V. 17, and 18.</hi>
+                  </bibl>
+                  <p>Pray without ceaſing. In every thing give thanks: for this is the Will of God in Chriſt Jeſus concerning you.</p>
+               </q>
+            </epigraph>
+            <p>FRequent Intercourſe with Heaven by the aſcent, or going up of our minds to God, in the holy flames of fervent Prayer, and devout Meditation, is re<g ref="char:EOLhyphen"/>commended
+<pb n="2" facs="tcp:50142:5"/>to us, both by Scripture, and Rea<g ref="char:EOLhyphen"/>ſon, as the moſt proper, and moſt effectual means of our growth in Grace, and Spiritual Proficiency. For, ſuch intimate, and more im<g ref="char:EOLhyphen"/>mediate converſe with the Fountain of all Wiſ<g ref="char:EOLhyphen"/>dom, Goodneſs, and Truth, will enlighten our Underſtandings; muſt needs attract, and unal<g ref="char:EOLhyphen"/>terably fix our Wills upon the true Object of Rational Choice, the ſupreme Good; will un<g ref="char:EOLhyphen"/>tack, and looſen our Souls from the Clod to which they grow; will raiſe our thoughts above the Smoak, and Duſt, the petty Cares, and low trifling concerns of this World; it will ſublime our A<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ctions; enlarge and improve our Capacities; refine our Tempers; Spiritua<g ref="char:EOLhyphen"/>lize our Natures; and thus every way fit us for that nearer Approach to, and cloſer Union with God, that centre of our immortal Spirits, which is to be our Reſt, and our Happineſs, our Crown, and our Glory in the next Life.</p>
+            <p>It muſt then be acknowledged, that the con<g ref="char:EOLhyphen"/>tinued Uſe, and Excerciſe of ſuch Abſtraction of our minds from material, and ſenſible things, and devout Application of our Souls to God, in Prayer, and Thankſgiving, is a ſubſtantial
+<pb n="3" facs="tcp:50142:5"/>part of that Employment, and Duty, to which we are obliged, as we are Chriſtians; or of that Will, and good Pleaſure of God, which is re<g ref="char:EOLhyphen"/>vealed to us by our Bleſſed Lord in his Goſpel. And this Conſideration of the Nature and Ef<g ref="char:EOLhyphen"/>ficacy of Prayer, and its neceſſary ſubſerviency to the great ends, and deſign of our Religion, may ſerve (beſides the conſent of learned In<g ref="char:EOLhyphen"/>terpreters.) <hi>Grot. Vorſt. Cornel. a Lapide</hi>) to juſtify the Coherence, or mutual Relation of theſe Words, as I have now read them toge<g ref="char:EOLhyphen"/>ther. <hi>Pray without ceaſing,</hi> &amp;c.</p>
+            <p>Now theſe Words, thus connected, do ma<g ref="char:EOLhyphen"/>nifeſtly contain this Propoſition; <hi>viz.</hi> That we Chriſtians are obliged, by the tenure of our Profeſſion, and, as we are ſuch, to great Meaſures of our Devotion. That we are bound to have a conſtant, and aſſiduous Commerce with our good God, in Prayer, and Thankſ<g ref="char:EOLhyphen"/>giving; who hath vouchſafed to us, in the Go<g ref="char:EOLhyphen"/>ſpel of his Son, a more expreſs Revelation of his Nature and his Will; of his Love and Kindneſs to us, in ſending his Son to redeem us, and his Holy Spirit to Inſtruct, Reform, and Sanctifie us; and of our Duty conſequent there<g ref="char:EOLhyphen"/>upon,
+<pb n="4" facs="tcp:50142:6"/>to walk worthy of God. 1 <hi>Theſ.</hi> 2.10. <hi>i. e.</hi> To act, and live in ſome Proportion to that Honour God hath herein done us; who is now in Chriſt Jeſus, after a more peculiar manner, our Lord, our Maſter, our Friend, and Bene<g ref="char:EOLhyphen"/>factor, our Father, and our God. That ſince God is come down to us, (the Word was made Fleſh, and dwelt, or had his Tabernacle, among us; appeared gloriouſly in our Nature) our Souls muſt now be always mounting up to him, on the Wings of Prayer, and in the daily Sa<g ref="char:EOLhyphen"/>crifice of Praiſe, and incenſe of Thankſgiving. And that we Chriſtians muſt habituate, and accuſtom our Souls to dwell above; and to converſe with the Original of our Being, the God of all our Mercies, and all our Hopes; ſince 'tis the great buſineſs of our Religion to diſpoſe, and qualifie us in this Life, for the Enjoyment of God in the next; and by raiſing our Minds from groſs, and ſenſible Objects, to a reliſh, and taſte of things Spiritual and In<g ref="char:EOLhyphen"/>viſible, to Naturalize us to Heaven.</p>
+            <p>And, ſince theſe general Precepts, <hi>Pray without ceaſing; In every thing give thanks;</hi> do unqueſtionably import both Frequency,
+<pb n="5" facs="tcp:50142:6"/>and Perſeverance in the whole extent and lati<g ref="char:EOLhyphen"/>tude of Devotion; both as to its ſeveral Parts, as alſo, as to its Circumſtances of Time, and Place, including all kinds, and all manners of Addreſs to God; whether ſettled, and regular; or Accidental and Occaſional, in point of time; publick in Churches, or private in our Cloſets and Retirements; or with our Families, in point of Place: it muſt be confeſſed, that we are chiefly, and more eſpecially obliged to that kind, or manner of Addreſs, which moſt fully anſwers the Principal Ends, and Fundamental Reaſons of Prayer in general.</p>
+            <p>Now the great end, and deſign of praying to God, being to do Honor to him, in the Ac<g ref="char:EOLhyphen"/>knowledgment we make, that as we derive from him, ſo we wholly depend upon him, for all that we are, or have, or hope for; and, to procure from God a ſupply to all our own, and others wants, both in our private and publick Capacities; it evidently follows, That the commands here given, <hi>To Pray without ceaſing; and, To give thanks in every thing;</hi> or upon all Occaſions, and Opportunities, which do preſent themſelves, muſt be underſtood,
+<pb n="6" facs="tcp:50142:7"/>and that principally, to lay an Obligation up<g ref="char:EOLhyphen"/>on us to make Conſcience of frequenting the daily publick Worſhip of God, where we have an opportunity of ſo doing, Since this manner of Application to God, doth apparent<g ref="char:EOLhyphen"/>ly, above any other, advance the glory of God, and promote all the valuable Intereſts both of our ſelves, and others; whether conſidered perſonally, or collectively, as we make a So<g ref="char:EOLhyphen"/>ciety, or Body, either Civil, or Religious, as I ſhall ſhew hereafter.</p>
+            <p>My Buſineſs ſhall therefore at preſent be to attempt the clearing up, and making good the Doctrine laid down in theſe Words, taken in that moſt genuine and eminent ſenſe, which is allow<g ref="char:EOLhyphen"/>ed them by the moſt learned Interpreters, both Ancient, and Modern, <hi>viz.</hi> That we Chri<g ref="char:EOLhyphen"/>ſtians do ſtand obliged, both by virtue of theſe, and the like Precepts, and by the reaſon of the thing it ſelf, conſcienciouſly to frequent the daily publick Prayers of the Church, where we have opportunity; and can find, or make leiſure ſo to do. And that therefore no Man, or Woman ought to think it altogether an in<g ref="char:EOLhyphen"/>different thing, (generally ſpeaking, and the
+<pb n="7" facs="tcp:50142:7"/>Circumſtances of particular Caſes being allow<g ref="char:EOLhyphen"/>ed for) whether they go to ſerve God with the Congregation; or ſtay at home, and em<g ref="char:EOLhyphen"/>ploy themſelves in ſome other thing, tho law<g ref="char:EOLhyphen"/>ful, yet at that time, not neceſſary; or not ſuf<g ref="char:EOLhyphen"/>ficient to furniſh them with ſuch a reaſon as may ſerve to juſtify them to God, and their own Conſcience, directed by the meaſures of Chriſtian Prudence and Piety; of Love to God, and a due Cave of their Immortal Souls.</p>
+            <p>Now the Obligation we all have not to for<g ref="char:EOLhyphen"/>ſake the Aſſembling of our ſelves together with our Chriſtian Brethren, every day in God's Houſe, unleſs we are hindred by ſome good Reaſon, I ſhall, I hope, evince and make to appear from theſe five following Conſidera<g ref="char:EOLhyphen"/>tions.</p>
+            <list>
+               <item>
+                  <hi>Firſtly,</hi> From the import, and meaning of the Precepts here mentioned; and others of the like Senſe, and Signification, <hi>viz. That this is the Will of God in Chriſt Jeſus concern<g ref="char:EOLhyphen"/>ing us.</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> From the Conſideration of the Glo<g ref="char:EOLhyphen"/>ry and Honour we bring to God; and the Repu<g ref="char:EOLhyphen"/>tation
+<pb n="8" facs="tcp:50142:8"/>and Credit we give to Religion, by our daily, open, and ſolemn Addreſſes to him.</item>
+               <item>
+                  <hi>Thirdly,</hi> From the many, and great Advanta<g ref="char:EOLhyphen"/>ges we our ſelves ſhall reap from our conſtant Attendance on God in this our bounden Duty, and Service.</item>
+               <item>
+                  <hi>Fourthly,</hi> From the Conſideration of the good, and intereſt of others; which we do hereby moſt effectually promote whether ſingle Per<g ref="char:EOLhyphen"/>ſons, or the Community of which we are Members.</item>
+               <item>
+                  <hi>Fifthly,</hi> From the general Conſent, and uni<g ref="char:EOLhyphen"/>verſal Practice of the Chriſtian Churches of all Ages, and Places, throughout the World.</item>
+            </list>
+            <p n="1">1. Then we Chriſtians are obliged to frequent the daily publick Worſhip of God, out of re<g ref="char:EOLhyphen"/>gard to his Authority, who hath enjoined us ſo to do, in this and the like places of Scripture; ſuch as are theſe following, Epheſ. vj 18. <hi>Pray<g ref="char:EOLhyphen"/>ing always</hi> [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> at every ſeaſon] <hi>with all Prayer and Supplication in the Spirit, and watching thereunto with all Perſeverance.</hi> Luke xviij. 1. Where our Saviour, ſpeaks a Parable, <hi>to this end, that men ought always to pray, and not to faint,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not to be ſlothful, re<g ref="char:EOLhyphen"/>miſs,
+<pb n="9" facs="tcp:50142:8"/>and negligent in this great Duty, 1 <hi>Tim.</hi> 2.8. <hi>I will therefore that Men Pray every where.</hi> Which both St. <hi>Baſil,</hi> and <hi>Beza</hi> do expound of Houſes, or Churches ſet apart for the Pub<g ref="char:EOLhyphen"/>lick Worſhip of God; in which St. <hi>Paul</hi> would have Chriſtians to Pray, and not only at the Temple in <hi>Jeruſalem.</hi> Dr. Patrick's <hi>Diſcourſe concerning</hi> Prayer. Now, although it muſt be granted, that none of theſe Scriptures do ex<g ref="char:EOLhyphen"/>preſly enjoyn the daily uſe of Publick Prayers; yet ſince theſe do more compleatly anſwer all the ends of Prayer than any private Devoti<g ref="char:EOLhyphen"/>on can do, they muſt of neceſſity be compre<g ref="char:EOLhyphen"/>hended, and by parity of Reaſon chiefly de<g ref="char:EOLhyphen"/>ſigned in thoſe general commands.</p>
+            <p>Beſides that, <hi>To Pray without ceaſing,</hi> or continually, may be very properly expounded of our preſenting our ſelves before God, in his Houſe, as often as we are either obliged thereto by publick Authority, or invited by the laudable Cuſtom, and Example of pious, and well-diſpoſed Perſons. For <hi>this, in a po<g ref="char:EOLhyphen"/>pular and legal ſence, is doing a thing indeſi<g ref="char:EOLhyphen"/>nently, or without ceaſing.</hi> (Dr. <hi>Barrow,</hi>) <hi>when we perform it ſo often as we are required
+<pb n="10" facs="tcp:50142:9"/>by Law, or Cuſtom.</hi> Thus the Prieſts are ſaid, <hi>Heb.</hi> 9.6. to go always into the Tabernacle, accompliſhing the ſervice of God. Always <hi>i. e.</hi> at all thoſe ſolemn times which were ap<g ref="char:EOLhyphen"/>pointed for ſuch Service, and the Apoſtles are ſaid, <hi>Luke</hi> 24.53. after Chriſt's Aſcenſion, and their return to <hi>Jeruſalem,</hi> to have been continually in the Temple, bleſſing, and prai<g ref="char:EOLhyphen"/>ſing God. <hi>i. e.</hi> They went daily to the Tem<g ref="char:EOLhyphen"/>ple at the uſual times, or hours of Prayer. Since then we are commanded, <hi>To Pray with<g ref="char:EOLhyphen"/>out coaſing; and to give thanks in every thing, or upon every Occaſion; to pray always, to pray every where,</hi>—in every ſeaſon, or upon every opportunity; except a man ſhall be ſo abſurd as to deny the ſolemn times ſet apart every day for Publick Devotion, to be ſeaſons, and op<g ref="char:EOLhyphen"/>portunities of Prayer; the Material Church to be a place; and the hours of Prayer to be any part of time; (and ſo to be neceſſarily in<g ref="char:EOLhyphen"/>cluded in the terms, <hi>always, without ceaſing, continually</hi>) he muſt confeſs, that all theſe Precepts of our Saviour, and his Apoſtles, may, and ought, by the Analogy of Faith, and Deduction of right Reaſon, to be inter<g ref="char:EOLhyphen"/>preted at leaſt, as well of the Publick, as of
+<pb n="11" facs="tcp:50142:9"/>our Private Addreſſes to God. And conſequent<g ref="char:EOLhyphen"/>ly. That we ought for this great Reaſon to be Aſſiduous, and conſcienciouſly Diligent in our daily. Publick Approaches to God in his San<g ref="char:EOLhyphen"/>ctuary; becauſe this is a conſiderable part of our Duty, as weare Chriſtians; Or, <hi>This is the Will of God in Chriſt Jeſus concern<g ref="char:EOLhyphen"/>ing us.</hi>
+            </p>
+            <p>And the pious Wiſdom of our Church ha<g ref="char:EOLhyphen"/>ving provided, that not only on all the Lord's days, and ſome few others, ſet apart for ſpeci<g ref="char:EOLhyphen"/>al Reaſons; but on every day of the Week al<g ref="char:EOLhyphen"/>ſo, Morning and Evening Prayer ſhall be open<g ref="char:EOLhyphen"/>ly read, or ſaid, by the Gurate that Miniſtreth in every Church or Chapel, being at home, and not being otherwiſe reaſonably hindred; 'tis hereby plainly intimated, That every one who is not reaſonably hindred, ſhould alſo come to hear it read every day: A Bell being order<g ref="char:EOLhyphen"/>ed to be tolled thereunto, that the People may come to hear God's Word, and to pray with the Miniſter. As he who pleaſes may find at the end of the Diſcourſe concerning the Church, in the Book of Common-Prayer. Theſe things conſidered, it will not certainly become any
+<pb n="12" facs="tcp:50142:10"/>Wiſe and Good Man, who Loves his God, his Religion, his Country, or his own Soul, uſually, and cuſtomarily, or indeed at any time, to ab<g ref="char:EOLhyphen"/>ſent himſelf from the daily Publick Worſhip of God, without a very juſt and warrantable rea<g ref="char:EOLhyphen"/>ſon. And he who allows himſelf in ſuch plain Omiſſions of his Duty, upon any unjuſtifiable account whatever, denies to yield Obedience to this Precept, <hi>Pray without ceaſing;</hi> ſince he ceaſes, nay he refuſes to Pray, when the Pro<g ref="char:EOLhyphen"/>vidence of God, the Direction, and Order of the Church, the Cuſtom and Example of De<g ref="char:EOLhyphen"/>vout Perſons, do ſtrongly invite, and follicite him, by reforting to God's Houſe, and hearing his part in the Publick Worſhip, to do open Honour to God, and Advantage both to him<g ref="char:EOLhyphen"/>ſelf, and the whole Church Militant.</p>
+            <p n="2">2. We are alſo obliged to frequent the Pub<g ref="char:EOLhyphen"/>lick Prayers, becauſe we do thereby bring Glo<g ref="char:EOLhyphen"/>ry, and Honour to God; and give Credit, and Reputation to our Religion; and that in much greater Degrees than we can do by any private Addreſſes to him, either in our Cloſers, or with our Families. For tho' it be true, that we may Worſhip God acceptably at home; and it is
+<pb n="13" facs="tcp:50142:10"/>both our Duty and our Advantage ſo to do; yet ſince Honour, and Glory, are properly out<g ref="char:EOLhyphen"/>ward Significations of the inward value and re<g ref="char:EOLhyphen"/>gard we have for Perſons; we do not properly honour, and glorifie God, in our private De<g ref="char:EOLhyphen"/>votions; but do then more eſpecially give him the honour due unto his Name, and make his Name to be Glorious, when we Pray unto, and Praiſe him, before much People. For, when we every day make our Court to him, as to the great King, and Lord of all; and wait upon him, in his own Houſe, we thereby give a pub<g ref="char:EOLhyphen"/>lick Teſtimony of the Eſteem and Reverence we have for him. We own our ſelves to be of his Family and Retinue; to depend upon him, and to hold all we have as from him, by the daily publick Homage we thus pay unto him. Hereby we may alſo properly be ſaid to ſerve God, or to do our Duty to him in promoting his Intereſt, (if, I may ſo ſpeak,) by keeping up, and maintaining a lively ſence of his being in the Hearts of Men; and propagating, and ad<g ref="char:EOLhyphen"/>vancing Conceptions of him, Worthy of his Greatneſs, and tranſcendent Majeſty; of his infinite Wiſdom, Power, and Goodneſs; when we thus avowedly celebrate him, as the Uni<g ref="char:EOLhyphen"/>verſal
+<pb n="14" facs="tcp:50142:11"/>yerſal Parent, Preſerver, and Governour of Mankind; who alone underſtands, and alone is both able, and willing to ſupply the wants of all his Creatures, who invoke, and depend upon him.</p>
+            <p>Hereby we likewiſe bring Credit, and Re<g ref="char:EOLhyphen"/>putation to our Religion; which can hardly be ſupported, without ſuch Viſible Profeſſion. We openly declare our ſelves it's Champions; and that we are not aſhamed of our Bleſſed Lord, nor of his Words, or the Laws of his holy Inſtitution, in the midſt of a crooked, and perverſe, a ſcoffing, and Atheiſtical Generati<g ref="char:EOLhyphen"/>on. We let all profane Miſcreants ſee, that they can no more baniſh the Notion of God out of the World, then they can pluck the Sun out of the Firmament; tho' they may poſſibly wink hard enough, neither to ſee the one, nor take due notice of the other: That notwith<g ref="char:EOLhyphen"/>ſtanding their affected Blindneſs, and wilful Ig<g ref="char:EOLhyphen"/>norance, God hath ſtill a very conſiderable par<g ref="char:EOLhyphen"/>ty in the World; numbers of Men, who think it their greateſt Honour to be, and to be ac<g ref="char:EOLhyphen"/>counted his Servants, and every day publickly own that Name, and Title; and as ſuch, pay
+<pb n="15" facs="tcp:50142:11"/>their daily Attendance on their dear Lord and Maſter, in his own Houſe.</p>
+            <p n="3">3. Another Motive, or Reaſon obliging us to frequent the daily Prayers of our Church, is the Conſideration of the Advantages we our ſelves ſhall reap from our ſo doing. Of which ſort, I ſhall name only theſe Three.</p>
+            <p>
+               <hi>Firſt,</hi> That we hereby do ſpend ſome part of our time every day in the beſt and moſt hea<g ref="char:EOLhyphen"/>venly Employment, and conſequently after the beſt manner that we are capable of ſpend<g ref="char:EOLhyphen"/>ing it.</p>
+            <p>
+               <hi>Secondly,</hi> That this lays a farther Obligation upon us to lead a more ſtrict, and holy Life than other men do; and to be exemplary, as well in all other Graces, as in that of De<g ref="char:EOLhyphen"/>votion.</p>
+            <p>
+               <hi>Thirdly,</hi> That this is a certain means, if we are not wanting to our ſelves, of our growth in Grace; and particularly, in thoſe two Car<g ref="char:EOLhyphen"/>dinal Graces (the Top and Perfection, as well as the Ground-work, and Foundation of all others;) the Love of God, and the Love of our Neighbours.</p>
+            <pb n="16" facs="tcp:50142:12"/>
+            <p n="1">1. Then I ſay, That the time we ſpend in the Publick Service of God is the beſt ſecured, and the beſt beſtowed of any other. This is certainly the beſt, becauſe the moſt Heavenly Employment; it being the con<g ref="char:EOLhyphen"/>tinual Buſineſs of the Angels, and the Arch<g ref="char:EOLhyphen"/>angels, and all the Hoſt of Heaven, with joint Praiſes to Laud, and Celebrate the Divine Majeſty. So that by thus doing, we begin Heaven here; we do already enter upon the Life, and State, and Employment of Angels; being united to that bleſſed Choir, and doing as they do. And he that ſhall duly acquit himſelf herein, will have this great ſatisfaction, that he hath ſpent at leaſt one hour every day to the beſt advantage, as an Anticipation, and fore-taſte of that Life, which we hope to lead in the preſence of God for ever.</p>
+            <p n="2">2. Another Advantage we derive from fre<g ref="char:EOLhyphen"/>quenting daily the Publick Prayers is this, <hi>viz.</hi> That our ſo doing lays a ſtrong, and daily Ob<g ref="char:EOLhyphen"/>ligation upon us to live a more ſtrict, and ho<g ref="char:EOLhyphen"/>ly, a more divine and heavenly Life, than others do; to be unblamable, unreprovable in all our Converſation. And he who doth not charge
+<pb n="17" facs="tcp:50142:12"/>himſelf with the daily Practice and Exerciſe of all thoſe Graces, for which he prays to God, hath reaſon to ſuſpect himſelf of Hypocriſie, and Formality in theſe his open Prayers. Thoſe then who make Conſcience of Approaching God twice every day in his Publick Ordinances, muſt alſo for this very Reaſon, beſides all o<g ref="char:EOLhyphen"/>thers, make more Conſcience of preſenting him, as with a pure Heart, ſo with a Circumſpect, Innocent, Unſpotted Life. And certainly if ſuch Men are not much better than others, who pretend leſs, they are much worſe; ſince they do hereby, openly profeſs more Zeal for God's Glory, more Love to him, and more Care to pleaſe him; and a greater ſenſe both of his Goodneſs to them, and their Duty to him, ſo that if they diſparage ſuch their Profeſſion, by unſuitable Practice; they give juſt Reaſon to believe, they have ſome other end to ſerve then that of Religion.</p>
+            <p n="3">3. A Third Advantage which will acrue to us from our daily Attendance on God in his Houſe, is growth in Grace; and particularly in the Love of God, and of our Neighbour; thoſe two Eminent and Comprehenſive Graces,
+<pb n="18" facs="tcp:50142:13"/>on which hang all the Law, and the Prophets. For the firſt of theſe, the Love of God; 'tis certain, that the more often we Converſe with him, the more intimately we are acquainted with him (who being the ſupreme good needs only to be known, that ſo he may be loved by us) the more ſtrongly will our Souls cleave un<g ref="char:EOLhyphen"/>to him: So that if to our Private Meditation, and Prayers, we add ſuch daily ſolemn Converſe with him in the Publick Prayers and Thanksgi<g ref="char:EOLhyphen"/>vings, and hearing of his Word, our Love to him muſt needs grow and increaſe thereby. And as to the Love of our Neighbour; ſince every ſiding, and taking part, though but in ſome inconſiderable Opinion, Intereſt, or Cu<g ref="char:EOLhyphen"/>ſtom, Education, or Courſe of Life, is a pe<g ref="char:EOLhyphen"/>culiar Endearment, and ground of Affection to<g ref="char:EOLhyphen"/>wards thoſe of the ſame Opinion, Intereſt, or Way; how much more prone will they be to bear an hearty good Will and Kindneſs toward each other, who are daily engaged in the ſame common Intereſt; and that of the higheſt Im<g ref="char:EOLhyphen"/>portance, <hi>viz.</hi> a joint endeavour to bring Publick Honour to their common Lord; and to forward their own Salvation; who twiſt and combine their Prayers, and Praiſes; and
+<pb n="19" facs="tcp:50142:13"/>converſe here with one another, as they hope to do hereafter in Heaven. Not to mention now the ſolemn Interceſſion made twice aday for the whole Catholick Church, and the open Declaration of our ſo forgiving all Men, who offend, or injure us, as we deſire and hope for Mercy, and Forgiveneſs at the Hands of God. Now, beſides the Efficacy of the united Pray<g ref="char:EOLhyphen"/>ers of a Chriſtian Congregation, put up for themſelves and for each other (at which Chriſt hath promiſed to be preſent in a ſpecial man<g ref="char:EOLhyphen"/>ner, <hi>Matt.</hi> xviij. 20.) It is, I think, an unde<g ref="char:EOLhyphen"/>niable certainty, That he who ſhall both in Pri<g ref="char:EOLhyphen"/>vate, and alſo in Publick, thus daily importune the Throne of Grace, ſhall obtain a greater meaſure of theſe, and all other Graces, than he who contents himſelf with his Private, Soli<g ref="char:EOLhyphen"/>tary Prayers only.</p>
+            <p n="4">4. Another Conſideration enforcing this Du<g ref="char:EOLhyphen"/>ty of our waiting upon God, in his Sanctuary every day, is the great Benefit, and good which others may receive from our ſo doing; and that, not only as particular Perſons taking notice of our regular, ſteady, exemplary Piety, joined with an unblemiſhed Life; and a truly Chriſtian
+<pb n="20" facs="tcp:50142:14"/>Converſation, may be won by our good Ex<g ref="char:EOLhyphen"/>ample, to the ſame practice; and by the ſhine of our Light, by ſeeing our good Works, may alſo themſelves come in like manner to glorifie our Father which is in Heaven. But alſo, becauſe Publick Prayers, both as they tend to the bet<g ref="char:EOLhyphen"/>tering all thoſe, who do conſcienciouſly frequent them, and ſo to the augmenting the number, and improving the Graces of Righteous Per<g ref="char:EOLhyphen"/>ſons, for whoſe ſake God often ſpares a wicked Place, or People; and alſo, in their Nature, Deſign, and End, are the proper Inſtrument for the obtaining and continuing Publick Peace, and Tranquillity; or the Eſtabliſhment, and Proſperity of a Church and State. Whence <hi>R. Maimonides,</hi> well obſerves, That he who dwells in a City in which there is a Synagogue, or Houſe of Prayer, and doth not therein Pray with the Aſſembly, he is to be cenſured as an ill Neighbour: as one that is wanting in his Du<g ref="char:EOLhyphen"/>ty to promote, by his Prayers, the good of that Community, of which he is therefore an Unworthy Member.</p>
+            <p>And I have been credibly informed (to ap<g ref="char:EOLhyphen"/>ply this point to our ſelves) That in the Days
+<pb n="21" facs="tcp:50142:14"/>of Queen <hi>Elizabeth,</hi> when our Church by the Bleſſing of God upon her neceſſary and war<g ref="char:EOLhyphen"/>rantable Reformation, had quite broken off the Chains, and Fetters of the <hi>Romiſh</hi> Uſurpa<g ref="char:EOLhyphen"/>tion; ſome (perhaps moſt) of our Pariſh Churches were as numerouſly thronged at the daily Prayers, as they have ſince been at Ser<g ref="char:EOLhyphen"/>mons. And that, as our Liturgy grew after<g ref="char:EOLhyphen"/>wards into neglect, by the Indevotion and Pro<g ref="char:EOLhyphen"/>phaneneſs of ſome; and then into Contempt, by the Miſ-perſwaſion, Vain Affectation of No<g ref="char:EOLhyphen"/>velty, falſe Pretences to greater Purity of Wor<g ref="char:EOLhyphen"/>ſhip, and the like evil Artifices of others: So true Piety, and Loyalty, Men's Duty to God, and their Prince, Juſtice and Charity, Brother<g ref="char:EOLhyphen"/>ly Kindneſs, and good Will to each other, be<g ref="char:EOLhyphen"/>gan proportionably to leſſen and decay: till at length every thing of Religion, but the Name, and Pretence only, ſeemed to die, and expire in a Bloody Civil War: Of which our Poor Church ſtill wears the Marks; and feels ſome of its dire Effects to this very day, in thoſe breaches which are yet uncloſed. From whence we may rationally conclude, That as the neg<g ref="char:EOLhyphen"/>lect, and diſ-uſe of our Common-Prayer was the beginning of thoſe Confuſions, and Miſe<g ref="char:EOLhyphen"/>ries,
+<pb n="22" facs="tcp:50142:15"/>which ruined both our Church and State; ſo the moſt probable means to ſecure our Reli<g ref="char:EOLhyphen"/>gion, as it is now Eſtabliſhed, and to engage Almighty Power on our ſide, is, for us all to unite our ſelves as in the Profeſſion of the Evan<g ref="char:EOLhyphen"/>gelical, Primitive, Apoſtolical Faith; and in Uniform Obedience to all the Laws of God; and in ſtedfaſt Loyalty to our Prince; and Uni<g ref="char:EOLhyphen"/>verſal Love, and hearty good Will one towards another: So alſo, in the ſame daily Publick Worſhip of our great Lord. Which, toge<g ref="char:EOLhyphen"/>ther with the Articles of our Religion is the pro<g ref="char:EOLhyphen"/>per, Characteriſtick, and Diſtinctive Mark of the pureſt, and beſt conſtituted Church in the World, the Church of <hi>England;</hi> in which, by the goodneſs of God, we do now live; and in which, by his Grace, we hope to die.</p>
+            <p>The 5. (and laſt) Conſideration, from which I propoſed to deduce our Obligation to the daily ſervice of God in the Church, is the general Conſent, and Univerſal Practice of the Church of Chriſt, in all Ages, and Places, al<g ref="char:EOLhyphen"/>moſt in the World. The Apoſtles, as we read <hi>Luke</hi> 24.53. after Chriſt's Aſcenſion, were con<g ref="char:EOLhyphen"/>tinually in the Temple, <hi>i. e.</hi> Every Morning
+<pb n="23" facs="tcp:50142:15"/>and Evening (in which ſence the Morning and Evening Sacrifice was called the continual Burnt-Offering) at the time of Publick Prayer, Prai<g ref="char:EOLhyphen"/>ſing and Bleſſing God. And the Apoſtolical Conſtitutions (which are by all allowed to be very Ancient) do enjoin the Biſhop <hi>to Admo<g ref="char:EOLhyphen"/>niſh and Command the People to come every day, both Morning and Evening, to the Publick Pray<g ref="char:EOLhyphen"/>ers; and that none by abſenting himſelf, ſhould maim the Church, and take away one Member from the Body of Chriſt.</hi> 2. <hi>Conſtit. Chap.</hi> 59.</p>
+            <p>And as in all Ages, ſo in all Places, the Churches both of the <hi>Eaſtern,</hi> and <hi>Weſtern</hi> Communion, <hi>Greek, Armenian, Roman, Lutheran,</hi> and <hi>Calviniſt;</hi> all Chriſtian Churches, almoſt do ſo Univerſally Underſtand, and Agree, That the daily Publick Worſhip of God is enjoined both by the Scriptures, and the very Nature of a Chriſtian Church, That there is ſcarce any place in which it is not conſtantly, and Religiouſly obſerved, and uſed. For a Chri<g ref="char:EOLhyphen"/>ſtian Church is in its proper Notion, <hi>An Aſſem<g ref="char:EOLhyphen"/>bly of Men and Women met together to Worſhip God by Chriſt;</hi> Or, <hi>A company joined together to have Fellowſhip with God, and one with another
+<pb n="24" facs="tcp:50142:16"/>in all holy Duties; of which Prayer, Thanks<g ref="char:EOLhyphen"/>giving, and Praiſes are the Chief.</hi> As thoſe who need, or Deſire farther Information, or Satisfaction in this Argument, may find largely, and convincingly handled, in a Diſcourſe con<g ref="char:EOLhyphen"/>cerning Prayer, lately publiſhed by a pious and learned Divine of our Church, Dr. <hi>Patrick,</hi> which I wiſh were in all Men's Hands.</p>
+            <p>Thus have I ſhewed the Obligation we all have as far as every Man's Opportunities, and Circumſtances will give leave, to a Con<g ref="char:EOLhyphen"/>ſciencious Attendance on the daily Publick Worſhip. And that this Duty is preſſed, and bound upon us;</p>
+            <list>
+               <item>1. By that Obedience we owe to the Will of God, revealed in the Goſpel.</item>
+               <item>2. By that Zeal we ought to have for the Honour, and Glory of God, and the Intereſt of our Religion.</item>
+               <item>3. By the Advantages we may reap from our ſo doing, <hi>viz.</hi> The laying out ſo much of our time in the beſt manner, and to the beſt Account. Being hereby put upon great Cir<g ref="char:EOLhyphen"/>cumſpection, and Watchfulneſs over our ſelves,
+<pb n="25" facs="tcp:50142:16"/>that we lead unreprovable, and exemplary Lives; our own growth in all Grace; and eſpecially in the Love of God, and of our Neighbour.</item>
+               <item>4. By the concern we ought to have for the good of others; the Publick Proſperity, and E<g ref="char:EOLhyphen"/>ſtabliſhment both of our Church and State.</item>
+               <item>5. By the Authority and Example of the Church of Chriſt in all Ages, and Places.</item>
+            </list>
+            <p>But after all this, Men have not leiſure from their ſecular Employments; <hi>and ſerving God in their Calling,</hi> they tell us, <hi>is better than Praying.</hi> But is not Religion our Calling too? I am ſure the Scripture uſes the Word, Vocation, or Cal<g ref="char:EOLhyphen"/>ling in that Senſe, and I think in that only; and the Apoſtolical Conſtitutions tell us, That our ſecular Callings, Trades, or Profeſſions, are our Work, by the bye only, as providing for the Neceſſities of this lower Animal Life. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But the Worſhip of God is our Principal Buſineſs. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Conſt.</hi> 61.</p>
+            <p>If we muſt live Godlily, as well as Soberly, and Righteouſly; we muſt then reckon the Pub<g ref="char:EOLhyphen"/>lick Worſhip of God among the Buſineſſes of our
+<pb n="26" facs="tcp:50142:17"/>Lives, and allow a competent time for the Diſ<g ref="char:EOLhyphen"/>charge of what appears to be one third part of our Duty. I would adviſe even the Pooreſt Per<g ref="char:EOLhyphen"/>ſons, who maintain themſelves and Families by hard Labour, to venture ſo much of their time with God, as the Prayers take up every day; and I am perſwaded they would find it no ill Husbandry, God would not be in their debt at the years end. But thoſe who have not lei<g ref="char:EOLhyphen"/>ſure, becauſe they will not have it; becauſe, not being Content with Food and Raiment (the Wealth of a true Chriſtian) they will be dangerouſly Rich; though they do thereby fall into Temptation and a Snare, and into thoſe many fooliſh and hurtful Luſts, which often drown them, or their Poſterity in Deſtruction and Perdition: theſe ought well to conſider the Nature, and Doctrines of our Holy Religion, <hi>viz.</hi> That it teaches us <hi>not to Love the World, nor the things of This World; to be Crucified to the World: To ſet our Affections on things above, and not on things on the Earth; To lay up our Treaſure in Heaven: To provide for our ſelves Bags that Wax not old, To be rich towards God, To be led by the Spirit, and to walk after the Spi<g ref="char:EOLhyphen"/>rit;</hi> and then let them well weigh, whether
+<pb n="27" facs="tcp:50142:17"/>a Religion Eſtabliſhed on theſe, and the like Maxims, may not reaſonably demand at leaſt one 24th. part of their time for the publick Honour, and Service of God, and the promoting their own great Intereſt, that of their immortal Souls; and the good of the Community in which they live, and whether their conſtant, or frequent Pre<g ref="char:EOLhyphen"/>tence to want of leiſure for the Publick Wor<g ref="char:EOLhyphen"/>ſhip, be not in truth a Criminal Vitious Love of the World, and too much minding Earthly things, and, in plain Engliſh, chuſing to ſerve Mammon, rather than God?</p>
+            <p>Certainly if the generality of Men were as truly Wiſe, and as truly Pious as they ought to be; if they underſtood the Intereſts of their Souls, of their Religion, of their Church and Nation, as well as they do the little concern of getting Money; they eaſily might, and would, ſo order their Affairs, that our Churches might be every day as well filled in the Morning and Evening, as the <hi>Exchange</hi> is at Noon. And doubtleſs, he who having the neceſſary Prepa<g ref="char:EOLhyphen"/>rations of an holy Chriſtian Converſation, a Life led in all Godlineſs, and Honeſty; (or a ſerious, prevailing Reſolution ſo to Live;) of
+<pb n="28" facs="tcp:50142:18" rendition="simple:additions"/>an upright Intention, and ſincere aim at the glory of God; his own growth in Grace, and the good of others; ſhall make Conſcience of entring God's Courts twice every day; when he comes to die, will find more Satisfaction in that one hour thus ſpent, than in all thoſe he ſpends in his Worldly concerns, and no parti<g ref="char:EOLhyphen"/>cular will ſtand fairer in the account of our time, which we muſt all make to God at the laſt day, than the <hi>Item,</hi> So much ſpent every day, when we had opportunity, in the Publick Worſhip, and Service of God.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 3. l. 17. dele <hi>Our.</hi> p. 7. l. 18. dele <hi>ly</hi> in Firſtly. p. 8. l. laſt. lege <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. p. 11. l. 6. <hi>we are.</hi> p. 12. l. 14. lege <hi>bear<g ref="char:EOLhyphen"/>ing.</hi> p. 23. l. 11. put <hi>L.</hi> before 2. p. 25. l. 21. put <hi>L.</hi> before 2. p. 28. l. 10. lege <hi>This</hi> Item.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
